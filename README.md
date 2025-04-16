@@ -15,7 +15,7 @@ I’m a final year Computer Engineering student with a passion for software deve
 
 ### As of Present I am:
 💻 A Final Year Computer Engineering Student | 🧠 Exploring ML, NLP, and AI  
-📊 Currently learning: Data Science, Distributed Computing, and more  
+📊 Currently learning: Applied Data Science, Web Development, Artificial Intelligence, Machine Learning and Software Engineering to use in my future projects if I get any ideas.  
 🎮 A Pokémon GO Trainer | Interested in Pokemon Main Series Games 
 
 ## Portfolio Website
