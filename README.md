@@ -13,10 +13,8 @@ I’m a final year Computer Engineering student with a passion for software deve
 📊🎨 Growing through real-world projects and creative problem-solving.  
 💻 Always open to collaboration on meaningful tech projects!
 
-## 🔧 Skills
-- **Programming Languages:** Python, C/C++
-- **Tools & Technologies:** Visual Studio Code, Git, AWS, MySQL
-- **Web Development:** HTML, CSS, JavaScript
+## Portfolio Website
+[My Portfolio](https://sai25hajime.github.io/saileen-fernandes.github.io/)
 
 ## 📫 Contact Me
 - **Email:** saileenf6@gmail.com
