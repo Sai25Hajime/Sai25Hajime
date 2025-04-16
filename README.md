@@ -14,9 +14,9 @@ I’m a final year Computer Engineering student with a passion for software deve
 💻 Always open to collaboration on meaningful tech projects!
 
 ### As of Present I am:
-### 💻 A Final Year Computer Engineering Student | 🧠 Exploring ML, NLP, and AI  
-### 📊 Currently learning: Data Science, Distributed Computing, and more  
-### 🎮 A Pokémon GO Trainer | Interested in Pokemon Main Series Games 
+## 💻 A Final Year Computer Engineering Student | 🧠 Exploring ML, NLP, and AI  
+## 📊 Currently learning: Data Science, Distributed Computing, and more  
+## 🎮 A Pokémon GO Trainer | Interested in Pokemon Main Series Games 
 
 ## Portfolio Website
 [**My Portfolio**](https://sai25hajime.github.io/saileen-fernandes.github.io/)
