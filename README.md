@@ -18,23 +18,6 @@ I’m a final year Computer Engineering student with a passion for software deve
 - **Tools & Technologies:** Visual Studio Code, Git, AWS, MySQL
 - **Web Development:** HTML, CSS, JavaScript
 
-## 📂 Projects
-- **Cardia: Ai Diabetes and Heart Disease Management System (work in progress)**
-- **Ai Diagnosis and Doctor Recommendation System**
-- **Driver Drowsiness Detection System**
-- **Automatic Parking Management System**
-- **Natural Disaster Alert**
-
-Please refer to my repositories and my portfolio website for more details on these projects.
-
-## 🎓 Education
-- **BE in Computer Engineering** - St. Francis Institute of Technology (July 2021 – May 2025)
-- **Higher Secondary Education (HSC)** - Nirmala Junior College of Commerce and Science (June 2019 – May 2021)
-- **Secondary School Education (SSC)** - Sardar Vallabhai Patel Vidyalaya (June 2009 – March 2019)
-
-## 🏆 Certifications
-[**List of Certifications**](https://drive.google.com/drive/folders/1WM0Efm76nNKQgckjcBcR9ExK-X1JuWQJ?usp=sharing)
-
 ## 📫 Contact Me
 - **Email:** saileenf6@gmail.com
 - **LinkedIn:** [linkedin.com/in/saileen-fernandes](https://linkedin.com/in/saileen-fernandes)
