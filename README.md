@@ -16,6 +16,9 @@ I’m a final year Computer Engineering student with a passion for software deve
 ## Portfolio Website
 [My Portfolio](https://sai25hajime.github.io/saileen-fernandes.github.io/)
 
+## 🏆 Certifications
+[**List of Certifications**](https://drive.google.com/drive/folders/1WM0Efm76nNKQgckjcBcR9ExK-X1JuWQJ?usp=sharing)
+
 ## 📫 Contact Me
 - **Email:** saileenf6@gmail.com
 - **LinkedIn:** [linkedin.com/in/saileen-fernandes](https://linkedin.com/in/saileen-fernandes)
