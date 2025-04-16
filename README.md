@@ -13,17 +13,17 @@ I’m a final year Computer Engineering student with a passion for software deve
 📊🎨 Growing through real-world projects and creative problem-solving.  
 💻 Always open to collaboration on meaningful tech projects!
 
-## As of Present I am
+## ✏️ As of Present I am
 💻 A Final Year Computer Engineering Student | 🧠 Exploring ML, NLP, and AI  
 
 📊 Currently learning: Applied Data Science, Web Development, Artificial Intelligence, Machine Learning and Software Engineering to use in my future projects if I get any ideas.  
 
 🎮 A Pokémon GO Trainer | Interested in Pokemon Main Series Games 
 
-## Interests
+## 🎮 Interests
 Web Design, Writing, General Knowledge, Video Games, Pokemon, History
 
-## Portfolio Website
+## 🌐 Portfolio Website
 [**My Portfolio**](https://sai25hajime.github.io/saileen-fernandes.github.io/)
 
 ## 🏆 Certifications
