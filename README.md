@@ -14,7 +14,7 @@ I’m a final year Computer Engineering student with a passion for software deve
 💻 Always open to collaboration on meaningful tech projects!
 
 ## Portfolio Website
-[My Portfolio](https://sai25hajime.github.io/saileen-fernandes.github.io/)
+[**My Portfolio**](https://sai25hajime.github.io/saileen-fernandes.github.io/)
 
 ## 🏆 Certifications
 [**List of Certifications**](https://drive.google.com/drive/folders/1WM0Efm76nNKQgckjcBcR9ExK-X1JuWQJ?usp=sharing)
