@@ -40,5 +40,5 @@ Web Design, Writing, General Knowledge, Video Games, Pokemon, History
 - I love Pokemon, since I love cute animals like cats.
 - I am a big fan of history, video games, food and cats.
 
-Feel free to check out my repositories and get in touch if you want to collaborate on a project or just say hi!
+Feel free to check out my repositories and get in touch if you want to collaborate on a project or just say hi! 👋
 
