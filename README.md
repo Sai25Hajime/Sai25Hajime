@@ -34,6 +34,13 @@ Web Design, Writing, General Knowledge, Video Games, Pokemon, History
 - **LinkedIn:** [linkedin.com/in/saileen-fernandes](https://linkedin.com/in/saileen-fernandes)
 - **GitHub:** [github.com/Sai25Hajime](https://github.com/Sai25Hajime)
 
+## 📊 GitHub Stats
+![Sai25Hajime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai25Hajime&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sai25Hajime&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai25Hajime&layout=compact&theme=radical)
+
 ## 🎨 Fun Facts
 - I love exploring the outdoors and like to see new places.
 - I'm a big fan of technology and always looking for ways to improve my coding skills.
