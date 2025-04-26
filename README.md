@@ -41,6 +41,8 @@ Web Design, Writing, General Knowledge, Video Games, Pokemon, History
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai25Hajime&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sai25Hajime&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🎨 Fun Facts
 - I love exploring the outdoors and like to see new places.
 - I'm a big fan of technology and always looking for ways to improve my coding skills.
