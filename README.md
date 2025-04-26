@@ -41,6 +41,7 @@ Web Design, Writing, General Knowledge, Video Games, Pokemon, History
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai25Hajime&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sai25Hajime&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎨 Fun Facts
